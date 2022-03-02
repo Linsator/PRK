@@ -1,7 +1,7 @@
 Jazyk C& (čteme cent)
 Jazyk obsahuje tyto prvky: jeden operand, závorky, součet, součin, logické operátory (and &, or |, xor ^, not ~), typy int a bool
 
-Priorita operátorů: * > + > &, |, ^, ~
+Priorita operátorů: * > + > ~ > & > ^ > |
 
 Všechny operátory až na not ~ jsou binární, kde not ~ je unární 
 
