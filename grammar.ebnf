@@ -12,4 +12,4 @@ binary = binaryStart, binaryDigit, {binaryDigit};
 binaryStart = "0b" | "0B";
 binaryDigit = "0" | "1";
 list = int | binary | "a";
-syntax =expr;
+syntax = expr;
