@@ -1,5 +1,10 @@
 cd gram
-antlr Cent.g4
-javac Cent*.java
-grun Cent root TestGramValid -gui
-grun Cent root TestGramInvalid -gui
+
+call antlr Cent.g4
+
+call javac Cent*.java
+
+call grun Cent root TestGramValid -tree -gui
+
+call grun Cent root TestGramInvalid -tree -gui
+cd ..

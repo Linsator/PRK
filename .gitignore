@@ -2,3 +2,5 @@
 *.class
 *.tokens
 *.interp
+gram/.idea/*
+gram/.antlr/*
