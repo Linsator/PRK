@@ -1,3 +1,5 @@
+přesunuto na https://github.com/Linsator/CentPRK
+
 Jazyk C& (čteme cent)
 Jazyk obsahuje tyto prvky: jeden operand, závorky, součet, součin, logické operátory (and &, or |, xor ^, not ~), typy int a bool
 
